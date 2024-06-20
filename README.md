@@ -1,6 +1,9 @@
 # Delivery-IQ
  An application build to manage iraq companies and orders
 
+google play link : https://play.google.com/store/apps/details?id=com.delivery.iq
+
+apple store link : https://apps.apple.com/us/app/delivery-iq/id1568878714
 
  An application build to manage iraq companies and orders
 	<img src="https://play-lh.googleusercontent.com/CAr7JX49vHewphlz76tQTuUk0759RK5OIFCe6nzx5dXyD6qKd83lWqAoTGUAiT9hjNM=w2560-h1440-rw">
